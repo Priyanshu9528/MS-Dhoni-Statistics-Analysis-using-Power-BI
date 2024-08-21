@@ -28,7 +28,7 @@ The data used in this project is based on MS Dhoni's career statistics across al
 3. Use the filters to focus on specific formats, years, or other criteria.
 
 ## Project Dashboard Link
-You can view the interactive dashboard online through this [link](https://app.powerbi.com/groups/me/reports/da0a1cc9-871d-4af8-a893-01b10740ae3b/df773252b1a364ab1b5b?experience=power-bi).
+You can view the interactive dashboard online through this [link](https://app.powerbi.com/groups/me/dashboards/910d2194-9591-408f-90bb-6688f1d91b9f?experience=power-bi).
 
 ## Screenshots
 ![MS Dhoni Statistics Dashboard](./Ms%20Dhoni%20Statistics%20Dashboard.png)
